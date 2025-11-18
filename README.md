@@ -1,3 +1,3 @@
-- I'm currently learning web development and system design
+- I'm currently focusing on data science and machine learning!
 - I’m studying computer science and technology information management
 - How to reach me : right here in github!
